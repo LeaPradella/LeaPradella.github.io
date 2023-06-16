@@ -1,0 +1,8 @@
+---
+title: "Lea Pradella"
+about:
+  template: jolla
+  image: picture.jpg
+---
+
+Hi, my name is Lea. I am a Ph.D. Candidate at the Department of Political Science at Aarhus University, Denmark. 
