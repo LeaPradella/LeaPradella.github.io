@@ -1,8 +1,54 @@
 ---
 title: "Lea Pradella"
+image: picture.jpg
+page-layout: full
 about:
-  template: jolla
-  image: picture.jpg
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: e-mail
+      href: "mailto:lea.pradella@ps.au.dk" 
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/LeaPradella
+    - text: "{{< ai osf >}} OSF"
+      href: osf.io/p9ard
+    - text: "{{< ai orcid >}} Orcid"
+      href: https://orcid.org/0000-0001-7250-5874
 ---
 
-Hi, my name is Lea. I am a Ph.D. Candidate at the Department of Political Science at Aarhus University, Denmark. 
+# Welcome!
+
+I am a Ph.D. Candidate at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark.
+
+My research lies at the crossroads of political psychology and communication, with a focus on the role of accurate understanding and empathy in online and offline political interactions.
+
+I am fascinated by the prevalence of misunderstandings and misperceptions among political opponents. What keeps people from accurately understanding their adversaries? How can we promote more accurate understanding? Does this reduce hostility? And when does understanding become a source of dilemma and potentially counterproductive in democratic societies? To investigate this, I mostly employ survey experiments.
+
+::: {style="font-size: 85%;"}
+::: grid
+::: g-col-6
+##### {{< fa bookmark >}} Interests
+
+-   Political Psychology
+-   Political Behavior
+-   Political Communication
+-   Empathy
+-   Intergroup Relations
+-   Social Media Behavior
+-   Causal Inference
+-   Experimental Methods
+:::
+
+::: g-col-6
+##### {{< fa graduation-cap >}} Education
+
+-   MSc Political Science\
+    [*Aarhus University, Denmark*]{style="color:grey;"}
+-   BA Political Science, Minor in Psychology\
+    [*University of Mannheim, Germany*]{style="color:grey;"}
+:::
+:::
+:::

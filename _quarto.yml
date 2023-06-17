@@ -1,27 +1,25 @@
 project:
   type: website
-
 website:
-  title: "Lea Pradella"
   navbar:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
       - working_papers.qmd
-      - projects.qmd
-      
+      #- projects.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/LeaPradella
       - icon: github
         href: https://github.com/LeaPradella
-
+  sidebar: false
 format:
   html:
     theme: lux
-    css: styles.css
-    toc: true
+    css: 
+    - styles.css
+    - academicons.css
+    #toc: true
 
 editor: visual
 

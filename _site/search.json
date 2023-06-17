@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Lea Pradella",
     "section": "",
-    "text": "Hi, my name is Lea. I am a Ph.D. Candidate at the Department of Political Science at Aarhus University, Denmark."
+    "text": "Welcome!\nI am a Ph.D. Candidate at the Department of Political Science at Aarhus University, Denmark.\nMy research lies at the crossroads of political psychology and communication, with a focus on the role of accurate understanding and empathy in online and offline political interactions.\nI am fascinated by the prevalence of misunderstandings and misperceptions among political opponents. What keeps people from accurately understanding their adversaries? How can we promote more accurate understanding? Does this reduce hostility? And when does understanding become a source of dilemma and potentially counterproductive in democratic societies? To investigate this, I mostly employ survey experiments.\n\n\n\n Interests\n\nPolitical Psychology\nPolitical Behavior\nPolitical Communication\nEmpathy\nIntergroup Relations\nSocial Media Behavior\nCausal Inference\nExperimental Methods\n\n\n\n Education\n\nMSc Political Science\nAarhus University, Denmark\nBA Political Science, Minor in Psychology\nUniversity of Mannheim, Germany"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "New change that I made\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "projects.html",
@@ -19,5 +19,47 @@
     "title": "Projects",
     "section": "",
     "text": "My Projects"
+  },
+  {
+    "objectID": "index.html#hi-my-name-is-lea.",
+    "href": "index.html#hi-my-name-is-lea.",
+    "title": "Lea Pradella",
+    "section": "",
+    "text": "I am a Ph.D. Candidate at the Department of Political Science at Aarhus University, Denmark."
+  },
+  {
+    "objectID": "working_papers.html",
+    "href": "working_papers.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Andresen, Mathies Jæger, Simon Tobias Schulz Karg, Stig Hebbelstrup Rye Rasmussen, Lea Pradella, Jesper Rasmussen, Lasse Lindekilde, and Michael Bang Petersen. 2022. “Danskernes Oplevelse Af Had På Sociale Medier.” Aarhus University. Available here.\n\n Work in Progress\nPradella, Lea. “Reducing Online Political Hostility: Motives to Get The Other Right Are More Important Than Motives to Get The Facts Right.” Working Paper. Available upon request.\nPradella, Lea. “The Art of (Mis)Understanding Each Other: Barriers to Accurate Understanding Between Political Opponents.” Working Paper."
+  },
+  {
+    "objectID": "index.html#first-column",
+    "href": "index.html#first-column",
+    "title": "Lea Pradella",
+    "section": "",
+    "text": "I would like to have text here\nSentence becomes longer, it should automatically stay in their column"
+  },
+  {
+    "objectID": "index.html#second-column",
+    "href": "index.html#second-column",
+    "title": "Lea Pradella",
+    "section": "",
+    "text": "and here\nMore text"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Lea Pradella",
+    "section": "",
+    "text": "Political Psychology\nPolitical Behavior\nPolitical Communication\nEmpathy\nIntergroup Relations\nSocial Media Behavior\nCausal Inference\nExperimental Methods"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Lea Pradella",
+    "section": "",
+    "text": "PhD Political Science, 2021-2024\nMaster Degree Political Science\nBachelor Degree Political Science, Minor in Psychology"
   }
 ]
