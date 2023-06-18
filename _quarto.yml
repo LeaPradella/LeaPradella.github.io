@@ -1,18 +1,21 @@
 project:
   type: website
+  output-dir: docs    # for publishing via github pages (don't forget to add the .nojekyll file to the docs)
+  
 website:
   navbar:
     right:
       - href: index.qmd
         text: Home
       - working_papers.qmd
-      #- projects.qmd
+      - teaching.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/LeaPradella
       - icon: github
         href: https://github.com/LeaPradella
   sidebar: false
+  
 format:
   html:
     theme: lux

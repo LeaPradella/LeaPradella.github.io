@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-New change that I made 
-
-```{r}
-1 + 1
-```

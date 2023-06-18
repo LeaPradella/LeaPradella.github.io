@@ -1,0 +1,9 @@
+---
+title: "Teaching"
+---
+
+-   "The Psychology of Political Hostility"\
+    [*Master Seminar \@Aarhus University, Fall 2022*]{style="color:grey;"}
+
+-   Quantitative Methods\
+    [*Bachelor Tutorial to Lecture \@Aarhus University, Spring 2022*]{style="color:grey;"}
