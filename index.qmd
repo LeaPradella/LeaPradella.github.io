@@ -1,5 +1,6 @@
 ---
 title: "Lea Pradella"
+subtitle: "Ph.D. Candidate"
 image: picture.jpg
 page-layout: full
 about:
@@ -14,7 +15,7 @@ about:
       text: twitter
       href: https://twitter.com/LeaPradella
     - text: "{{< ai osf >}} OSF"
-      href: osf.io/p9ard
+      href: https://osf.io/p9ard
     - text: "{{< ai orcid >}} Orcid"
       href: https://orcid.org/0000-0001-7250-5874
 ---
