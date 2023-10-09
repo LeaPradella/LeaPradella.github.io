@@ -22,11 +22,11 @@ about:
 
 # Welcome!
 
-I am a Ph.D. Candidate at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark.
+I am a Ph.D. Candidate at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark. Currently, I am visiting [The Charles and Louise Travers Department of Political Science](https://polisci.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/).
 
-My research lies at the crossroads of political psychology and communication, with a focus on the role of accurate understanding and empathy in online and offline political interactions.
+My research lies at the crossroads of political psychology and communication, with a focus on the role of accurate understanding and empathy in political interactions.
 
-I am fascinated by the prevalence of misunderstandings and misperceptions among political opponents. What keeps people from accurately understanding their adversaries? How can we promote more accurate understanding? Does this reduce hostility? And when does understanding become a source of dilemma and potentially counterproductive in democratic societies? To investigate this, I mostly employ survey experiments.
+I am fascinated by the prevalence of misunderstandings and misperceptions among political opponents. What keeps people from accurately understanding their adversaries? How can we promote more accurate understanding? Does this reduce hostility? And when does understanding become a source of dilemma and potentially even counterproductive in democratic societies? To investigate this, I mostly employ survey experiments. However, I am enthusiastic about finding ways to investigate these research queries in real-world settings.
 
 ::: {style="font-size: 85%;"}
 ::: grid
