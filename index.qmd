@@ -21,8 +21,11 @@ about:
     - icon: github
       href: https://github.com/LeaPradella
 ---
+::: {style="font-size: 85%;"}
 
 # Welcome!
+
+::: {.justify}
 
 I am a <span style="color:black;">Ph.D. Candidate</span> at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark. I have recently submitted my PhD thesis "*Understanding the Other Side: Empathy Across The Political Divide*" in which I investigate the causes and consequences of empathy in interactions between political opponents.
 
@@ -32,7 +35,8 @@ I am also a <span style="color:black;">Research Assistant</span> working on the 
 
 In my research, I use <span style="color:black;">quantitative methods</span>, specializing in surveys and survey experiments. On top, I am currently developing skills in quantitative text analysis and exploring the potential of using quasi-experimental designs to investigate political interactions in real-world contexts.
 
-::: {style="font-size: 75%;"}
+:::
+
 ::: grid
 ::: g-col-6
 
