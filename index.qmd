@@ -5,7 +5,7 @@ image: picture.jpg
 page-layout: full
 about:
   template: trestles
-  image-width: 15em
+  image-width: 13em
   image-shape: round
   links:
     - icon: envelope
@@ -23,7 +23,7 @@ about:
 ---
 ::: {style="font-size: 85%;"}
 
-# Welcome!
+## Welcome!
 
 ::: {.justify}
 
@@ -61,6 +61,9 @@ In my research, I use <span style="color:black;">quantitative methods</span>, sp
     [*University of Mannheim, Germany*]{style="color:grey;"}
 :::
 :::
-:::
 
 *Latest update: October 2024*
+
+:::
+
+
