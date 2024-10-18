@@ -9,24 +9,28 @@ about:
   image-shape: round
   links:
     - icon: envelope
-      text: e-mail
       href: "mailto:lea.pradella@ps.au.dk" 
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/LeaPradella
-    - text: "{{< ai osf >}} OSF"
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.dk/citations?user=o2uT3hgAAAAJ&hl=en
+    - text: "{{< ai osf >}}"
       href: https://osf.io/p9ard
-    - text: "{{< ai orcid >}} Orcid"
+    - text: "{{< ai orcid >}}"
       href: https://orcid.org/0000-0001-7250-5874
+    - text: "{{< iconify fa6-brands square-x-twitter >}}"
+      href: https://twitter.com/LeaPradella
+    - icon: github
+      href: https://github.com/LeaPradella
 ---
 
 # Welcome!
 
-I am a Ph.D. Candidate at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark. Currently, I am visiting [The Charles and Louise Travers Department of Political Science](https://polisci.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/).
+I am a <span style="color:black;">Ph.D. Candidate</span> at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark. I have recently submitted my PhD thesis "*Understanding the Other Side: Empathy Across The Political Divide*" in which I investigate the causes and consequences of empathy in interactions between political opponents.
 
-My research lies at the crossroads of political psychology and communication, with a focus on the role of accurate understanding and empathy in political interactions.
+<span style="color:black;">My research</span> sits at the intersection of political science, psychology, and communication. I am fascinated by the processes underlying political interactions among citizens. Why, how, and when do these interactions occur? How do they unfold, and what factors contribute to constructive or hostile exchanges? What are the consequences of these interactions for society and democracy?
 
-I am fascinated by the prevalence of misunderstandings and misperceptions among political opponents. What keeps people from accurately understanding their adversaries? How can we promote more accurate understanding? Does this reduce hostility? And when does understanding become a source of dilemma and potentially even counterproductive in democratic societies? To investigate this, I mostly employ survey experiments. However, I am enthusiastic about finding ways to investigate these research queries in real-world settings.
+I am also a <span style="color:black;">Research Assistant</span> working on the [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility), where I examine how social media platform designs influence political interactions among citizens, with a particular focus on the dynamics of face-to-face versus chat-based interactions. Additionally, I am part of the [Partisan Peer Pressure and Affective Polarization (PEERPOL) Project](https://ps.au.dk/en/current/allnews/news/artikel/dff-bevilling-paa-62-millioner-kroner-til-troels-boeggild) where I investigate how peer-to-peer conversations shape political and affective polarization.
+
+In my research, I use <span style="color:black;">quantitative methods</span>, specializing in surveys and survey experiments. On top, I am currently developing skills in quantitative text analysis and exploring the potential of using quasi-experimental designs to investigate political interactions in real-world contexts.
 
 ::: {style="font-size: 85%;"}
 ::: grid
@@ -37,10 +41,10 @@ I am fascinated by the prevalence of misunderstandings and misperceptions among 
 -   Political Behavior
 -   Political Communication
 -   Empathy
--   Intergroup Relations
+-   Inter-group Relations
 -   Social Media Behavior
--   Causal Inference
 -   Experimental Methods
+-   Causal Inference
 :::
 
 ::: g-col-6
@@ -53,3 +57,5 @@ I am fascinated by the prevalence of misunderstandings and misperceptions among 
 :::
 :::
 :::
+
+*Latest update: October 2024*

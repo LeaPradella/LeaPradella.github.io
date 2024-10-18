@@ -8,10 +8,11 @@ website:
       - href: index.qmd
         text: Home
       - working_papers.qmd
+      - cv.qmd
       - teaching.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/LeaPradella
+      - icon: envelope
+        href: "mailto:lea.pradella@ps.au.dk" 
       - icon: github
         href: https://github.com/LeaPradella
   sidebar: false
@@ -19,6 +20,7 @@ website:
 format:
   html:
     theme: lux
+    linkcolor: "#0096C7"
     css: 
     - styles.css
     - academicons.css
