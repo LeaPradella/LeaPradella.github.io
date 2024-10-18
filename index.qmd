@@ -26,15 +26,16 @@ about:
 
 I am a <span style="color:black;">Ph.D. Candidate</span> at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark. I have recently submitted my PhD thesis "*Understanding the Other Side: Empathy Across The Political Divide*" in which I investigate the causes and consequences of empathy in interactions between political opponents.
 
-<span style="color:black;">My research</span> sits at the intersection of political science, psychology, and communication. I am fascinated by the processes underlying political interactions among citizens. Why, how, and when do these interactions occur? How do they unfold, and what factors contribute to constructive or hostile exchanges? What are the consequences of these interactions for society and democracy?
-
 I am also a <span style="color:black;">Research Assistant</span> working on the [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility), where I examine how social media platform designs influence political interactions among citizens, with a particular focus on the dynamics of face-to-face versus chat-based interactions. Additionally, I am part of the [Partisan Peer Pressure and Affective Polarization (PEERPOL) Project](https://ps.au.dk/en/current/allnews/news/artikel/dff-bevilling-paa-62-millioner-kroner-til-troels-boeggild) where I investigate how peer-to-peer conversations shape political and affective polarization.
+
+<span style="color:black;">My research</span> sits at the intersection of political science, psychology, and communication. I am fascinated by the processes underlying political interactions among citizens. Why, how, and when do these interactions occur? How do they unfold, and what factors contribute to constructive or hostile exchanges? What are the consequences of these interactions for society and democracy?
 
 In my research, I use <span style="color:black;">quantitative methods</span>, specializing in surveys and survey experiments. On top, I am currently developing skills in quantitative text analysis and exploring the potential of using quasi-experimental designs to investigate political interactions in real-world contexts.
 
-::: {style="font-size: 85%;"}
+::: {style="font-size: 75%;"}
 ::: grid
 ::: g-col-6
+
 ##### {{< fa bookmark >}} Interests
 
 -   Political Psychology
