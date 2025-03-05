@@ -58,6 +58,8 @@ In my research, I use [quantitative methods]{style="color:black;"}, specializing
 ::: g-col-6
 ##### {{< fa graduation-cap >}} Education
 
+-   PhD Political Science\
+    [*Aarhus University, Denmark*]{style="color:grey;"}
 -   MSc Political Science\
     [*Aarhus University, Denmark*]{style="color:grey;"}
 -   BA Political Science, Minor in Psychology\
@@ -65,5 +67,5 @@ In my research, I use [quantitative methods]{style="color:black;"}, specializing
 :::
 :::::
 
-*Latest update: October 2024*
+*Latest update: March 2025*
 :::::::
