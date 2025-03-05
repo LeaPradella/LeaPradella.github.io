@@ -1,6 +1,6 @@
 ---
-title: "Lea Pradella, PhD"
-subtitle: "Building 1340, Room 136<br>Barholins Allé 7<br>8000 Aarhus C, DK"
+title: "<span style='font-size: 24px;'>Lea Pradella, PhD</span>"
+subtitle: "<span style='font-size: 18px;'>Building 1340, Room 136<br>Barholins Allé 7<br>8000 Aarhus C, DK</span>"
 image: picture.jpg
 page-layout: full
 about:
@@ -40,6 +40,9 @@ My [PhD Dissertation]{style="color:black;"} "[Understanding the Other Side: Empa
 
 In my research, I use [quantitative methods]{style="color:black;"}, specializing in surveys and survey experiments. Additionally, I am currently expanding my skills in quantitative text analysis and exploring quasi-experimental designs and field experiments to study political interactions in real-world settings.
 :::
+
+<strong style="color:black;">If you are interested in my research or a potential collaboration, please reach out!</strong>
+
 
 ::::: grid
 ::: g-col-6
