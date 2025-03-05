@@ -2,41 +2,24 @@
 title: "Curriculum Vitae"
 ---
 
-{{< fa file >}} [download CV](https://www.dropbox.com/scl/fi/8wsiw6io2ehwwyjr7w4sd/CV_Pradella.pdf?rlkey=yfnzie4j5j1ora8jn6p0l8532&st=seu7v0uv&dl=0)
+{{< fa file >}} [download CV](https://www.dropbox.com/s/llhz4gsxh1usco8/CV_Pradella.pdf?st=qoixvozq&dl=0)
 
 ::: {style="font-size: 85%;"}
 #### Current Positions
 
-<span style="color:black;">PhD Candidate</span>, Department of Political Science, Aarhus University, Denmark\
-*Since 09/2021*
--   Dissertation Title: Understanding The Other Side: Empathy Across The Political Divide
--   Supervisors: Prof. Michael Bang Petersen and Prof. Lasse Lindekilde
--   Under Assessment, Expected Defence: January 2025
 
-<span style="color:black;">Research Assistant</span>, Department of Political Science, Aarhus University, Denmark\
-*Since 09/2024*
--   will be turned into a Post-doc position after successful defence
--   Research on Online Political Hostility (ROPH) Project, led by Prof. Michael Bang Petersen
--   Partisan Peer Pressure and Affective Polarization (PEERPOL) Project, led by Prof. Troels Boeggild
+
+[Postdoctoral Researcher]{style="color:black;"}, Department of Political Science, Aarhus University, Denmark\
+*Since 09/2024* - Research on Online Political Hostility (ROPH) Project, led by Prof. Michael Bang Petersen - Partisan Peer Pressure and Affective Polarization (PEERPOL) Project, led by Prof. Troels Boeggild
 
 #### Education
 
-<span style="color:black;">PhD Research Stay</span>, University of California, Berkeley, USA\
-*08/2023 - 12/2023*
--   Visiting the American Political Behavior Lab led by Prof. David Broockman and Prof. Gabriel Lenz
+[PhD Political Science]{style="color:black;"}, Department of Political Science, Aarhus University, Denmark\
+*Since 09/2021* - Dissertation Title: Understanding The Other Side: Empathy Across The Political Divide - Supervisors: Prof. Michael Bang Petersen and Prof. Lasse Lindekilde - Under Assessment, Expected Defence: January 2025
 
-<span style="color:black;">MSc Political Science</span>, Aarhus University, Denmark\
-*09/2019 - 06/2021*
--   Master Thesis: Beyond Accuracy: Effects of Impartial Political Listening on Online Political Hostility
--   Supervisor: Prof. Michael Bang Petersen
+[MSc Political Science]{style="color:black;"}, Aarhus University, Denmark\
+*09/2019 - 06/2021* - Master Thesis: Beyond Accuracy: Effects of Impartial Political Listening on Online Political Hostility - Supervisor: Prof. Michael Bang Petersen
 
-<span style="color:black;">Study Abroad</span>, University of Ottawa, Canada\
-*08/2017 - 12/2017*
--   Semester abroad during Bachelor Education
-
-<span style="color:black;">BA Political Science</span>, **Minor in Psychology**, University of Mannheim, Germany\
-*09/2015 - 08/2019*
--   Bachelor Thesis: The Influence of Personality Traits on Political Attitudes: Context-based Changes Over Time
--   Supervisor: Prof. Dr. Harald Schoen
-
+[BA Political Science]{style="color:black;"}, **Minor in Psychology**, University of Mannheim, Germany\
+*09/2015 - 08/2019* - Bachelor Thesis: The Influence of Personality Traits on Political Attitudes: Context-based Changes Over Time - Supervisor: Prof. Dr. Harald Schoen
 :::

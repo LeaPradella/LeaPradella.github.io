@@ -22,6 +22,8 @@ title: "Publications"
 
 #### {{< fa spinner >}} Work in Progress
 
+"<span style="color:black;">Extremity Bias in Peer-to-Peer Communication</span>" (with Troels Bøggild)
+
 "<span style="color:black;">The Design of the Platform or the Personality of the User? Evidence on the Causes of Online Political Hostility from a Large-Scale Lab-in-the-Field Experiment</span>" (with Steffen B Selmer and Michael Bang Petersen)
 
 "<span style="color:black;">Does In-Party Conformity Undermine Democratic Norms?</span>" (with Laurits F Aarslew and Kristian Vrede Skaaning Frederiksen)
