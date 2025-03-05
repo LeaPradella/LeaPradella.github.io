@@ -2,14 +2,27 @@
 title: "Teaching"
 ---
 
--   <span style="color:black;">Applied Quantitative Research and Journalistic Practice</span>\
-    Lecturer and Instructor\
-    *Master Seminar, Master's Degree Programme in Journalism, Media and Globalisation, Aarhus University, Spring 2025*
+[Applied Quantitative Research and Journalistic Practice]{style="color:black;"}\
+*Erasmus Mundus Master of Arts Programme in Journalism, Media and Globalisation, Aarhus University and Danish School of Media and Journalism, Spring 2025*
 
--   <span style="color:black;">"The Psychology of Political Hostility"</span>\
-    Instructor\
-    *Master Seminar, MSc Political Science, Aarhus University, Fall 2022*
+-   Lecturer and Seminar Instructor
 
--   <span style="color:black;">Quantitative Methods (Metode II)</span>\
-    Teaching Assistan\
-    *Tutorial to Lecture, BA Political Science, Aarhus University, Spring 2022*
+-   Course Design and Curriculum Development
+
+-   Language: English
+
+[The Psychology of Political Hostility]{style="color:black;"}\
+*MSc Political Science, Aarhus University, Fall 2022*
+
+-   Seminar Instructor
+
+-   Course Design and Curriculum Development
+
+-   Language: English
+
+[Introduction to Quantitative Methods (Metode II)]{style="color:black;"}\
+*BA Programme in Political Science, Aarhus University, Spring 2022*
+
+-   Instructor for Exercise Classes accompanying the Main Lecture
+
+-   Language: Danish
