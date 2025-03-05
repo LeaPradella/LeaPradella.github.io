@@ -1,6 +1,6 @@
 ---
-title: "<span style='font-size: 24px;'>Lea Pradella, PhD</span>"
-subtitle: "<span style='font-size: 18px;'>Building 1340, Room 136<br>Barholins Allé 7<br>8000 Aarhus C, DK</span>"
+title: "<span style='font-size: 20px;'>Lea Pradella, PhD</span>"
+subtitle: "<span style='font-size: 16px;'>Building 1340, Room 136<br>Barholins Allé 7<br>8000 Aarhus C, DK</span>"
 image: picture.jpg
 page-layout: full
 about:
