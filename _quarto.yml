@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - working_papers.qmd
+      - dissertation.qmd
       - cv.qmd
       - teaching.qmd
     tools:
