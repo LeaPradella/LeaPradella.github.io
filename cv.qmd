@@ -1,25 +1,23 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 ---
 
 {{< fa file >}} [download CV](https://www.dropbox.com/s/llhz4gsxh1usco8/CV_Pradella.pdf?st=qoixvozq&dl=0)
 
 ::: {style="font-size: 85%;"}
-#### Current Positions
+#### Current Position
 
-
-
-[Postdoctoral Researcher]{style="color:black;"}, Department of Political Science, Aarhus University, Denmark\
-*Since 09/2024* - Research on Online Political Hostility (ROPH) Project, led by Prof. Michael Bang Petersen - Partisan Peer Pressure and Affective Polarization (PEERPOL) Project, led by Prof. Troels Boeggild
+*Since 09/2024*\
+[Postdoctoral Researcher]{style="color:black;"}, Department of Political Science, Aarhus University, Denmark
 
 #### Education
 
-[PhD Political Science]{style="color:black;"}, Department of Political Science, Aarhus University, Denmark\
-*Since 09/2021* - Dissertation Title: Understanding The Other Side: Empathy Across The Political Divide - Supervisors: Prof. Michael Bang Petersen and Prof. Lasse Lindekilde - Under Assessment, Expected Defence: January 2025
+*09/2021 - 08/2024\
+*[PhD Political Science]{style="color:black;"}, Department of Political Science, Aarhus University, Denmark
 
-[MSc Political Science]{style="color:black;"}, Aarhus University, Denmark\
-*09/2019 - 06/2021* - Master Thesis: Beyond Accuracy: Effects of Impartial Political Listening on Online Political Hostility - Supervisor: Prof. Michael Bang Petersen
-
-[BA Political Science]{style="color:black;"}, **Minor in Psychology**, University of Mannheim, Germany\
-*09/2015 - 08/2019* - Bachelor Thesis: The Influence of Personality Traits on Political Attitudes: Context-based Changes Over Time - Supervisor: Prof. Dr. Harald Schoen
+*09/2019 - 06/2021\
+*[MSc Political Science]{style="color:black;"}, Aarhus University, Denmark\
+\
+*09/2015 - 08/2019\
+*[BA Political Science]{style="color:black;"}, **Minor in Psychology**, University of Mannheim, Germany
 :::

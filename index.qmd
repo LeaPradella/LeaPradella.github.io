@@ -1,6 +1,6 @@
 ---
-title: "Lea Pradella"
-subtitle: "Ph.D. Candidate"
+title: "Lea Pradella, PhD"
+subtitle: "Building 1340, Room 136<br>Barholins Allé 7<br>8000 Aarhus C, DK"
 image: picture.jpg
 page-layout: full
 about:
@@ -23,14 +23,14 @@ about:
 ---
 
 ::::::: {style="font-size: 85%;"}
-## Welcome!
+## Hello!
 
 ::: justify
-I am a [Postdoctoral Researcher]{style="color:black;"} at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark.
+My name is Lea Pradella, I am a [Postdoctoral Researcher]{style="color:black;"} at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark.
 
 [My research]{style="color:black;"} lies at the intersection of political science, psychology, and communication. I am fascinated by the processes underlying political interactions among citizens. Why, how, and when do these interactions take place? How do they unfold, and what factors contribute to constructive dialogue or hostility? What are the consequences of these interactions for society and democracy?
 
-As a postdoctoral researcher, I am currently involved in two major research projects at Aarhus University:
+I am currently involved in two major research projects at Aarhus University:
 
 1.  [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility) - here, we investigate how social media platform designs influence political interactions among citizens, with a particular focus on the dynamics of face-to-face versus chat-based interactions.
 
