@@ -1,29 +1,92 @@
 ---
-title: "Publications"
+title: "Research"
 ---
 
-#### {{< fa newspaper >}} Refereed Journal Articles
+::::::: {style="font-size: 70%;"}
 
-"[Testing the Social Pressure Hypothesis: Does In-Party Social Pressure Reduce Out-Party Empathy?](https://doi.org/10.1093/pnasnexus/pgae358)", <span style="color:black;">PNAS Nexus</span>, 2024.
+---
 
-"[Correcting misperceptions of partisan opponents is not effective at treating democratic ills](https://doi.org/10.1093/pnasnexus/pgae304)" (with Nicholas C Dias, Laurits F Aarslew, Kristian Vrede Skaaning Frederiksen, Yphtach Lelkes, and Sean J Westwood), <span style="color:black;">PNAS Nexus</span>, 2024.
+#### {{< fa newspaper >}} Journal Articles
+
+---
+
+
+[Pradella, L.]{style="color:black;"} (2024). [Testing the social pressure hypothesis: Does in-party social pressure reduce out-party empathy?](https://doi.org/10.1093/pnasnexus/pgae358). *PNAS nexus*, 3(10), pgae358.
+
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## Abstract
+Empathy is considered one of the most critical components for bridging political divides and reducing animosity between political groups. Yet, empathy between political opponents is rare. There is a growing concern that partisans do not empathize with out-partisans because they feel social pressure from fellow in-partisans not to do so. This article examines this social pressure hypothesis and draws two conclusions. First, on the surface, the hypothesis seems plausible: citizens perceive fellow in-partisans as comparatively disapproving of and reluctant to engage in out-party empathy, and naïve cross-sectional analyses suggest that this perception translates into lower empathy towards out-partisans. Second, however, experimental data suggest that this relationship is not causal. Expecting disapproval from fellow in-party members for empathizing with out-partisans does not lead to a significant reduction in intentions to empathize with out-partisans. Rather, exploratory analyses suggest that social pressure by the in-party increases empathy toward out-partisans and triggers disappointment toward in-partisans. This implies that partisans can resist social pressure from the in-party and might even compensate for in-partisans’ lack of out-party empathy. The results are supported by original cross-sectional and experimental survey data (N = 2,535⁠) collected in the United States, an arguably most likely case for in-party social pressure to shape partisans’ intentions. The results have important implications for understanding the causes of and viable strategies for building empathy across political divides.
+:::
+
+---
+
+Dias, N. C., Aarslew, L. F., Frederiksen, K. V. S., Lelkes, Y., [Pradella, L.]{style="color:black;"}, & Westwood, S. J. (2024). [Correcting misperceptions of partisan opponents is not effective at treating democratic ills](https://doi.org/10.1093/pnasnexus/pgae304). *PNAS nexus*, 3(8), pgae304.
+
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## Abstract
+Many warn that the United States is on the brink of democratic collapse, because partisan animosity, support for partisan violence, and support for undemocratic practices are on the rise. Quelling some fears, scholars have offered interventions that use messages to correct misperceptions about citizens’ partisan opponents (the “out-party”). In this article, we provide evidence that the effects of these interventions are not as robust or consistent as hoped. First, we use panel data (N = 9,810⁠) to show that perceptions of the out-party are highly variable. This suggests that these perceptions are weakly held and thus unlikely to be a significant cause of hostile attitudes. The oscillation of perceptions over time also suggests that, for many, any effect of corrections would likely be overwhelmed in just 1 month. Second, in a meta-analysis of 67 statistical tests from 12 studies in eight papers, we document that current evidence on the efficacy of corrections is weak. Third and finally, in pre-registered experiments (n = 2,846⁠), we find that changing Americans’ perceptions of the out-party’s demographics, policy attitudes, and support for undemocratic practices has no consistent effect on partisan animosity, support for partisan violence, or support for undemocratic practices. These observations suggest that correcting misperceptions of the out-party is not a panacea for our democratic ills.
+:::
+
+
+---
 
 #### {{< fa pen-to-square >}} Working Papers
 
-"[Global differences in experiences of hostility on social media reflect political and economic inequalities](https://osf.io/preprints/psyarxiv/spkyz)". (with Alexander Bor, Antoine Marie, and Michael Bang Petersen), <span style="color:black;">revise and resubmit: Nature Human Behavior</span>.
+---
 
-"<span style="color:black;">Approaching Political Disagreements With Understanding: Comparing Empathy To Other Modes of Information Processing</span>", *available upon request*.
+Bor, A., Marie, A., [Pradella, L.]{style="color:black;"}, Petersen, M. B. “[Undemocratic and unequal countries experience more political hostility on
+social media – Evidence from 30 Countries]{style="color:black;"}”. *conditional accept: Nature Human Behavior*.
 
-"<span style="color:black;">When Out-Partisans Understand: The Impact of Out-Party Empathy on Third-Person Observers</span>", *available upon request*.
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## Abstract
+There is widespread concern about the hostility of political discussions on social media but there is no consensus about the underlying dynamics. In particular, the relationship between online hostility and the broader sociopolitical context has received less attention, in part because of limited research outside Western countries. Here, we report results from novel observational data collected through quota-sampled online surveys in 30 countries across six continents (N = 15,202) about experiences of online hostility. Our findings show that people in less democratic and less economically equal countries experience more hostility online. We also find that, in every country, respondents who are hostile online are also hostile offline, and that these people are fuelled by strong status-seeking motivations. Exploratory analyses identify more young and more status-motivated people as plausible drivers of higher hostility in undemocratic countries. Overall, these findings highlight how online political hostility is intertwined with wider societal tensions. 
+:::
+
+---
+
+[Pradella, L.]{style="color:black;"} "[Rethinking Accuracy Motivations: How Empathic vs. Factual Accuracy Goals Influence Online Political Hostility]{style="color:black;"}", *available upon request*.
+
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## Abstract
+Hostile political behavior online is increasingly common and often driven by the motivation to dominate political opponents. According to motivated reasoning theory, reducing such hostility may require motivating individuals to seek accuracy goals rather than directional goals. But what kind of accuracy matters? This study distinguishes between two types: \textit{factual accuracy}, the goal of determining what is objectively true, and \textit{empathic accuracy}, the goal of accurately understanding opponents’ thoughts and feelings. In a pre-registered survey experiment, 3051 U.S. participants were motivated by video prompts to adopt one of these goals when they encountered an opposing view on immigration on social media. Results show that empathic accuracy goals (vs. factual accuracy goals) reduce hostility toward and perceived superiority over political opponents and increase agreement with pro-immigration but not with anti-immigration views. These findings underscore the importance of differentiating between types of accuracy goals and suggest that promoting accurate understanding can reduce online political hostility.
+:::
+
+---
+
+[Pradella, L.]{style="color:black;"} "[When Out-Partisans Understand: The Impact of Out-Party Empathy on Third-Person Observers]{style="color:black;"}", *available upon request*.
+
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## Abstract
+Empathy across political differences is considered crucial for less hostile interactions. While most research focuses on empathy in one-on-one interactions, I examine how third-person observers respond to empathy expressed by out-partisans. An online survey of 3,324 U.S. participants shows that observers are less hostile and more empathic when they see empathic (vs. non-empathic) out-partisans and feel more comfortable discussing politics with them. However, these effects disappear once empathic out-partisans also express disagreement, suggesting that empathy works only when expressed purely, without disagreement. One reason may be that empathy signals not just empathy, but also agreement and atypicality, as exploratory analyses show. This suggests that the positive effects of empathy stem not only from empathy itself, but from what it also signals: agreement and atypicality. These findings highlight the positive effects of empathy beyond dyadic interactions but also the difficulty of navigating political differences without losing the ability to disagree.
+:::
+
+---
+
+[Pradella, L.]{style="color:black;"}, Selmer, S. B., & Petersen, M. B. "[Text-based political discussions are not more hostile but they are less rewarding]{style="color:black;"}", *available upon request*.
+
+::: {.callout-note collapse="true" icon=false appearance="simple"}
+## Abstract
+Political interactions online are perceived as increasingly hostile, discouraging many from engaging in online discussions. A prominent explanation attributes this hostility to the low richness of online communication: unlike face-to-face interactions, the text-based nature of comment sections on online platforms lacks interpersonal and non-verbal cues, which is often argued to contribute to misinterpretations and the emergence of hostility. We tested this argument in the largest discussion experiment ever conducted in Denmark. To this end, we organized 473 dyadic interactions between 946 Danish citizens with opposing views on the contentious issues of immigration and unemployment benefits. Discussions were randomly assigned to occur on either (1) a low-cue, text-based platform or (2) a high-cue, video-based platform. Contrary to expectations, we found no evidence that text-based discussions increase hostility. In fact, hostility was virtually absent across all discussions and taking part in the discussions --- regardless of format --- reduced negative stereotypes toward political out-groups. While text-based communication did not trigger hostility, the richer video format was, however, experienced as more rewarding: participants in video-based discussions viewed their discussion partners more positively, rated the conversations as higher in quality, enjoyed the discussion more, reported having learned more, and were more willing to engage in similar discussions in the future. Overall, these findings suggest that the low richness of text-based communication is not a primary cause of the hostility of political discussions on, for example, social media platforms. At the same time, the findings also highlight the value of richer communication formats in motivating citizens to participate in difficult political conversations, even if the resulting discussions are not necessarily less hostile.
+:::
+
+---
 
 #### {{< fa square-poll-horizontal >}} Reports
 
-"[Danskernes Oplevelse Af Had På Sociale Medier](https://pure.au.dk/portal/files/271291115/Danskernes_oplevelse_af_had_pa_de_sociale_medier_Rapport_Aarhus_Universitet_.pdf)." (English title: "Danes' Experience of Hate on Social Media") (with Matthies Andresen, Simon T Karg, Stig H Rasmussen, Jesper Rasmussen, Lasse Lindekilde, and Michael Bang Pertersen), Aarhus University.
+---
+
+Andresen, M. J., Karg, S. T. S., Rasmussen, S. H. R., [Pradella, L.]{style="color:black;"}, Rasmussen, J., Lindekilde, L., & Petersen, M. B. (2022). "[Danskernes Oplevelse Af Had På Sociale Medier](https://pure.au.dk/portal/files/271291115/Danskernes_oplevelse_af_had_pa_de_sociale_medier_Rapport_Aarhus_Universitet_.pdf)." (English title: Danes’ experience of hate on social media). Aarhus University, 2022.
+
+---
 
 #### {{< fa spinner >}} Work in Progress
 
-"<span style="color:black;">Extremity Bias in Peer-to-Peer Communication</span>" (with Troels Bøggild)
+---
 
-"<span style="color:black;">The Design of the Platform or the Personality of the User? Evidence on the Causes of Online Political Hostility from a Large-Scale Lab-in-the-Field Experiment</span>" (with Steffen B Selmer and Michael Bang Petersen)
+[Pradella, L.]{style="color:black;"}, Bøggild, T. "[Extremity Bias in Peer-to-Peer Communication]{style="color:black;"}"
 
-"<span style="color:black;">Does In-Party Conformity Undermine Democratic Norms?</span>" (with Laurits F Aarslew and Kristian Vrede Skaaning Frederiksen)
+---
+
+[Pradella, L.]{style="color:black;"}, Petersen, M. B., Bøggild, T. “[When Posts Meet the Wrong Crowd: Audience Mismatch and Political Hostility on Social Media]{style="color:black;"}”.
+
+:::::::

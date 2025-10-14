@@ -1,0 +1,14 @@
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".abstract-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const abs = document.getElementById(btn.dataset.target);
+      abs.classList.toggle("show");
+      btn.setAttribute(
+        "aria-expanded",
+        abs.classList.contains("show") ? "true" : "false"
+      );
+    });
+  });
+});
+</script>
