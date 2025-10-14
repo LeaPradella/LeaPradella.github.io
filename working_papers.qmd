@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-::::::: {style="font-size: 70%;"}
+::::::: {style="font-size: 85%;"}
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-::::::: {style="font-size: 85%;"}
+::::::: {style="font-size: 80%;"}
 
 ---
 

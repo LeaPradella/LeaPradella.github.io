@@ -1,6 +1,6 @@
 ---
-title: "<span style='font-size: 20px;'>Lea Pradella, PhD</span>"
-subtitle: "<span style='font-size: 16px;'>Building 1340, Room 136<br>Barholins Allé 7<br>8000 Aarhus C, DK</span>"
+title: "<span style='font-size: 18px;'>Lea Pradella, PhD</span>"
+subtitle: "<span style='font-size: 14px;'>Building 1340, Room 136<br>Barholins Allé 7<br>8000 Aarhus C, DK</span>"
 image: picture.jpg
 page-layout: full
 about:
@@ -23,7 +23,7 @@ about:
 ---
 
 ::::::: {style="font-size: 85%;"}
-## Hello!
+### Hello!
 
 ::: justify
 My name is Lea Pradella, I am a [Postdoctoral Researcher]{style="color:black;"} at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark.
@@ -32,9 +32,12 @@ My name is Lea Pradella, I am a [Postdoctoral Researcher]{style="color:black;"} 
 
 I am currently involved in two major research projects:
 
-1.  [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility) - here, we investigate how platform designs shape political discussions with a particular focus on the dynamics of face-to-face versus text-based interactions.
+::::: {style="font-size: 90%;"}
+1.  [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility), where we investigate causes, consequences and counter-strategies of online political hostility.
 
-2.  [Partisan Peer Pressure and Affective Polarization (PEERPOL) Project](https://ps.au.dk/en/current/allnews/news/artikel/dff-bevilling-paa-62-millioner-kroner-til-troels-boeggild) - here, we investigate how peer-to-peer conversations influence political and affective polarization.
+2.  [Partisan Peer Pressure and Affective Polarization (PEERPOL) Project](https://ps.au.dk/en/current/allnews/news/artikel/dff-bevilling-paa-62-millioner-kroner-til-troels-boeggild), where we investigate how peer-to-peer conversations shape political and affective polarization.
+
+:::::
 
 My [PhD Dissertation]{style="color:black;"} "[Understanding the Other Side: Empathy Across The Political Divide](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/lea_pradella.pdf)" explored the causes and consequences of empathy in interactions between political opponents. It was awarded the [Aarhus University Research Foundation Best PhD Prize](https://international.au.dk/about/profile/honorary-awards-and-grants/aarhus-university-research-foundation-phd-prizes) in 2025.
 
@@ -69,5 +72,5 @@ In my research, I use [quantitative methods]{style="color:black;"}, specializing
 :::
 :::::
 
-*Latest update: March 2025*
+*Latest update: October 2025*
 :::::::
