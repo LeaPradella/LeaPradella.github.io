@@ -33,7 +33,7 @@ about:
 ::: justify
 My name is Lea Pradella, I am a [Postdoctoral Researcher]{style="color:black;"} at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark.
 
-[I study how people talk to one another about politics in democratic societies, both online and offline.]{style="color:black;"} My research examines the psychological and communicative processes that shape how citizens perceive, interpret, and respond to one another during political discussions. In particular, I investigate the conditions under which these interactions become hostile and polarized, as well as the factors that make constructive and cooperative dialogue possible. 
+[I study how people in democratic societies talk to one another about politics, both online and offline.]{style="color:black;"} My research examines the psychological and communicative processes that shape how citizens perceive, interpret, and respond to one another during political discussions. In particular, I investigate the conditions under which these interactions become hostile and polarized, as well as the factors that make constructive and cooperative dialogue possible. 
 
 [My PhD Dissertation]{style="color:black;"} "[Understanding the Other Side: Empathy Across The Political Divide](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/lea_pradella.pdf)" investigated the causes and consequences of empathy in interactions between political opponents. It was awarded the [[Best Dissertation Prize]{style="color:black;"}](https://international.au.dk/about/profile/honorary-awards-and-grants/aarhus-university-research-foundation-phd-prizes) from the Aarhus University Research Foundation in 2025.
 
