@@ -5,7 +5,7 @@ title: "dissertation"
 :::::::: {style="font-size: 85%;"}
 ::::::: columns
 :::: {.column width="60%"}
-### Understanding the Other Side: Empathy Across the Political Divide
+#### Understanding the Other Side: Empathy Across the Political Divide
 
 
 ::: justify
@@ -17,10 +17,20 @@ In an era marked by increasing hostility between political opponents, engaging i
 :::
 
 ::: {.column width="35%"}
-![](dissertation.jpg){width="300px"} [Link to Dissertation](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/lea_pradella.pdf)
+
+<br><br>
 
 
-The dissertation was awarded the [Aarhus University Research Foundation Best PhD Prize](https://international.au.dk/about/profile/honorary-awards-and-grants/aarhus-university-research-foundation-phd-prizes) in 2025.
+![](dissertation.jpg){width="300px"} 
+
+<br><br>
+
+[Link to Dissertation](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/lea_pradella.pdf)
+
+The dissertation was awarded the [Best Dissertation Prize](https://international.au.dk/about/profile/honorary-awards-and-grants/aarhus-university-research-foundation-phd-prizes) by the Aarhus University Research Foundation in 2025.
+
+
+
 
 
 :::

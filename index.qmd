@@ -2,6 +2,11 @@
 title: "<span style='font-size: 18px;'>Lea Pradella, PhD</span>"
 subtitle: "<span style='font-size: 14px;'>Building 1340, Room 136<br>Barholins Allé 7<br>8000 Aarhus C, DK</span>"
 image: picture.jpg
+
+format:
+  html:
+    css: styles.css
+
 page-layout: full
 about:
   template: trestles
@@ -28,23 +33,24 @@ about:
 ::: justify
 My name is Lea Pradella, I am a [Postdoctoral Researcher]{style="color:black;"} at the [Department of Political Science](https://ps.au.dk/en/) at [Aarhus University](https://international.au.dk/), Denmark.
 
-[My research]{style="color:black;"} lies at the intersection of political science, psychology, and communication. I study political interactions among citizens in democratic societies, with particular attention to how people engage across political differences, examining the causes, dynamics, and consequences of disagreement, hostility, and constructive dialogue.
+[I study how people talk to one another about politics in democratic societies, both online and offline.]{style="color:black;"} My research examines the psychological and communicative processes that shape how citizens perceive, interpret, and respond to one another during political discussions. In particular, I investigate the conditions under which these interactions become hostile and polarized, as well as the factors that make constructive and cooperative dialogue possible. 
 
-I am currently involved in two major research projects:
-
-::::: {style="font-size: 90%;"}
-1.  [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility), where we investigate causes, consequences and counter-strategies of online political hostility.
-
-2.  [Partisan Peer Pressure and Affective Polarization (PEERPOL) Project](https://ps.au.dk/en/current/allnews/news/artikel/dff-bevilling-paa-62-millioner-kroner-til-troels-boeggild), where we investigate how peer-to-peer conversations shape political and affective polarization.
-
-:::::
-
-My [PhD Dissertation]{style="color:black;"} "[Understanding the Other Side: Empathy Across The Political Divide](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/lea_pradella.pdf)" explored the causes and consequences of empathy in interactions between political opponents. It was awarded the [Aarhus University Research Foundation Best PhD Prize](https://international.au.dk/about/profile/honorary-awards-and-grants/aarhus-university-research-foundation-phd-prizes) in 2025.
+[My PhD Dissertation]{style="color:black;"} "[Understanding the Other Side: Empathy Across The Political Divide](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/lea_pradella.pdf)" investigated the causes and consequences of empathy in interactions between political opponents. It was awarded the [[Best Dissertation Prize]{style="color:black;"}](https://international.au.dk/about/profile/honorary-awards-and-grants/aarhus-university-research-foundation-phd-prizes) from the Aarhus University Research Foundation in 2025.
 
 In my research, I use [quantitative methods]{style="color:black;"}, specializing in surveys and survey experiments. Additionally, I am currently expanding my skills in quantitative text analysis and exploring quasi-experimental designs and field experiments to study political interactions in real-world settings.
+
+[I am currently involved in two major research projects:]{style="color:black;"}
+
+::::: {style="font-size: 95%;"}
+1.  [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility), where we investigate causes, consequences and counter-strategies of online political hostility.
+2.  [Partisan Peer Pressure and Affective Polarization (PEERPOL) Project](https://ps.au.dk/en/current/allnews/news/artikel/dff-bevilling-paa-62-millioner-kroner-til-troels-boeggild), where we investigate how peer-to-peer conversations shape political and affective polarization.
+:::::
+
 :::
 
 <strong style="color:black;">If you are interested in my research or a potential collaboration, please reach out!</strong>
+
+<br>
 
 ::::: grid
 ::: g-col-6
@@ -72,5 +78,7 @@ In my research, I use [quantitative methods]{style="color:black;"}, specializing
 :::
 :::::
 
-*Latest update: October 2025*
+<br>
+
+*Latest update: February 2026*
 :::::::

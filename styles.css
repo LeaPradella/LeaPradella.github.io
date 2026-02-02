@@ -7,3 +7,33 @@
 .justify {
   text-align: justify !important
 }
+
+
+a {
+  color: #333 !important;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+/* ---------- Abstract callouts ---------- */
+
+/* Make the box subtle (not blue) */
+.callout-note {
+  background-color: transparent !important;
+  border-left: 2px solid #ddd !important;
+}
+
+/* Make the word "Abstract" smaller and black */
+.callout-note .callout-title {
+  color: black !important;
+  font-size: 0.88em;
+  font-weight: 600;
+}
+
+/* Make all links inside abstracts black too */
+.callout-note a {
+  color: black !important;
+}
