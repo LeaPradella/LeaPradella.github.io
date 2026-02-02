@@ -2,6 +2,6 @@
 title: "CV"
 ---
 
-{{< fa file >}} [download CV](https://www.dropbox.com/s/llhz4gsxh1usco8/CV_Pradella.pdf?st=qoixvozq&dl=0)
+{{< fa file >}} [download CV](https://www.dropbox.com/s/llhz4gsxh1usco8/CV_Pradella.pdf?st=qoixvozq&dl=0){target="_blank"}
 
 

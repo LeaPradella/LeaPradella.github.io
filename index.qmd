@@ -37,7 +37,7 @@ My name is Lea Pradella, I am a [Postdoctoral Researcher]{style="color:black;"} 
 
 [My PhD Dissertation]{style="color:black;"} "[Understanding the Other Side: Empathy Across The Political Divide](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/lea_pradella.pdf)" investigated the causes and consequences of empathy in interactions between political opponents. It was awarded the [[Best Dissertation Prize]{style="color:black;"}](https://international.au.dk/about/profile/honorary-awards-and-grants/aarhus-university-research-foundation-phd-prizes) from the Aarhus University Research Foundation in 2025.
 
-In my research, I rely on quantitative methods with a particular focus on experimental designs. I am also expanding my expertise in quantitative text analysis and increasingly integrating qualitative approaches into my work.
+In my research, I rely on quantitative methods with a particular focus on experimental designs. I am also expanding my expertise in quantitative text analysis and increasingly integrate qualitative methods into my work.
 
 [I am currently involved in two major research projects:]{style="color:black;"}
 

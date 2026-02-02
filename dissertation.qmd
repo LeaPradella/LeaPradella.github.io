@@ -25,7 +25,7 @@ In an era marked by increasing hostility between political opponents, engaging i
 ![](dissertation.jpg){width="300px"} 
 
 
-[Link to Dissertation](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/lea_pradella.pdf)
+[Link to Dissertation](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/lea_pradella.pdf){target="_blank"}
 
 The dissertation was awarded the [Best Dissertation Prize](https://international.au.dk/about/profile/honorary-awards-and-grants/aarhus-university-research-foundation-phd-prizes){target="_blank"} by the Aarhus University Research Foundation in 2025.
 
