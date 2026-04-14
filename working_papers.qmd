@@ -33,7 +33,7 @@ Many warn that the United States is on the brink of democratic collapse, because
 
 #### {{< fa pen-to-square >}} Working Papers
 
-[Pradella, L.]{style="color:black;"}, Selmer, S. B., & Petersen, M. B. "[How Different Discussion Formats Shape Political Disagreement Between Citizens: Comparing Low and High Cue Interactions]{style="color:black;"}", *under review*. [Link to paper.](https://osf.io/preprints/psyarxiv/8c72w_v1){target="_blank"}
+[Pradella, L.]{style="color:black;"}, Selmer, S. B., & Petersen, M. B. "[How Different Discussion Formats Shape Political Disagreement Between Citizens: Comparing Low and High Cue Interactions]{style="color:black;"}", *under review*. [Link to paper.](https://doi.org/10.31234/osf.io/8c72w_v1){target="_blank"}
 
 ::: {.callout-note collapse="true" icon="false" appearance="simple"}
 ## Abstract
