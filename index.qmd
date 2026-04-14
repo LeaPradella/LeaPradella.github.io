@@ -6,6 +6,7 @@ image: picture.jpg
 format:
   html:
     css: styles.css
+    link-external-newwindow: true
 
 page-layout: full
 about:
@@ -80,5 +81,5 @@ In my research, I rely on quantitative methods with a particular focus on experi
 
 <br>  
 
-*Latest update: February 2026*
+*Latest update: April 2026*
 :::::::
