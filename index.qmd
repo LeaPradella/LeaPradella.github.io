@@ -40,7 +40,7 @@ My name is Lea Pradella, I am a [Postdoctoral Researcher]{style="color:black;"} 
 
 In my research, I rely on quantitative methods with a particular focus on experimental designs. I am also expanding my expertise in quantitative text analysis and increasingly integrate qualitative methods into my work.
 
-[I am currently involved in two major research projects:]{style="color:black;"}
+[As a postdoc, I am currently involved in two major research projects:]{style="color:black;"}
 
 ::::: {style="font-size: 95%;"}
 1.  [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility), where we investigate causes, consequences and counter-strategies of online political hostility.
