@@ -33,6 +33,15 @@ Many warn that the United States is on the brink of democratic collapse, because
 
 #### {{< fa pen-to-square >}} Working Papers
 
+[Pradella, L.]{style="color:black;"} "[When Out-Partisans Understand: The Impact of Out-Party Empathy on Third-Person Observers]{style="color:black;"}", *revise and resubmit at Political Behavior*.
+
+::: {.callout-note collapse="true" icon="false" appearance="simple"}
+## Abstract
+
+Empathy toward out-partisans is considered key to reducing hostility. Most research studies empathy in one-on-one interactions. However, political interactions are more often passively observed than actively participated in. This study therefore examines how observers react when out-partisans express empathy. In a pre-registered survey experiment with 3,324 U.S. participants, observers reported less hostility, more empathy, and more comfort discussing politics when out-partisans express empathy (vs. no empathy). However, these effects disappear once empathic out-partisans also express disagreement, suggesting em-pathy has benefits only when expressed purely. Exploratory analyses suggest why: observers interpret empathic messages not only as expressions of empathy, but also as agreement and atypicality. Thus, the benefits of empathy stem not only from empathy itself, but also from what else it signals. These findings highlight both the promise of empathy for improving political relations beyond dyadic interactions and the challenge of navigating political differences without losing the ability to disagree.
+:::
+
+
 [Pradella, L.]{style="color:black;"}, Selmer, S. B., & Petersen, M. B. "[How Different Discussion Formats Shape Political Disagreement Between Citizens: Comparing Low and High Cue Interactions]{style="color:black;"}", *under review*. [Link to paper.](https://doi.org/10.31234/osf.io/8c72w_v1){target="_blank"}
 
 ::: {.callout-note collapse="true" icon="false" appearance="simple"}
@@ -49,15 +58,6 @@ Over the past decade, political interactions have increasingly moved to text-bas
 
 How can interactions between political opponents on social media become less hostile? According to motivated reasoning theory, reducing such hostility may require motivating individuals to seek accuracy goals rather than directional goals. But what kind of accuracy matters? This study distinguishes between two types: factual accuracy, the goal of determining what is objectively true, and empathic accuracy, the goal of accurately understanding opponents’ subjective experiences. In a pre-registered survey experiment, 3051 U.S. participants were motivated by video prompts to approach a social media post with an opposing view on immigration with different goals in mind. Results show that motivating individuals to adopt empathic accuracy goals (vs. factual accuracy goals and directional goals) reduces hostility toward and perceived superiority over political opponents, and increases agreement with pro- but not anti-immigration views. These findings highlight the importance of differentiating between different types of accuracy goals that people bring to political interactions and suggest that motivating people to accurately understand the other side can reduce online political hostility.
 :::
-
-[Pradella, L.]{style="color:black;"} "[When Out-Partisans Understand: The Impact of Out-Party Empathy on Third-Person Observers]{style="color:black;"}", *under review*.
-
-::: {.callout-note collapse="true" icon="false" appearance="simple"}
-## Abstract
-
-Empathy toward out-partisans is considered key to reducing hostility. Most research studies empathy in one-on-one interactions. However, political interactions are more often passively observed than actively participated in. This study therefore examines how observers react when out-partisans express empathy. In a pre-registered survey experiment with 3,324 U.S. participants, observers reported less hostility, more empathy, and more comfort discussing politics when out-partisans express empathy (vs. no empathy). However, these effects disappear once empathic out-partisans also express disagreement, suggesting em-pathy has benefits only when expressed purely. Exploratory analyses suggest why: observers interpret empathic messages not only as expressions of empathy, but also as agreement and atypicality. Thus, the benefits of empathy stem not only from empathy itself, but also from what else it signals. These findings highlight both the promise of empathy for improving political relations beyond dyadic interactions and the challenge of navigating political differences without losing the ability to disagree.
-:::
-
 
 <br>
 
